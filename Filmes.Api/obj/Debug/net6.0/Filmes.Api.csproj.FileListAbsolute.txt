@@ -1,0 +1,7 @@
+C:\Users\Felipe Mendes\Desktop\Filmes\Filmes.Api\obj\Debug\net6.0\Filmes.Api.csproj.AssemblyReference.cache
+C:\Users\Felipe Mendes\Desktop\Filmes\Filmes.Api\obj\Debug\net6.0\Filmes.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Mendes\Desktop\Filmes\Filmes.Api\obj\Debug\net6.0\Filmes.Api.AssemblyInfoInputs.cache
+C:\Users\Felipe Mendes\Desktop\Filmes\Filmes.Api\obj\Debug\net6.0\Filmes.Api.AssemblyInfo.cs
+C:\Users\Felipe Mendes\Desktop\Filmes\Filmes.Api\obj\Debug\net6.0\Filmes.Api.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Mendes\Desktop\Filmes\Filmes.Api\obj\Debug\net6.0\Filmes.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe Mendes\Desktop\Filmes\Filmes.Api\obj\Debug\net6.0\Filmes.Api.MvcApplicationPartsAssemblyInfo.cache
